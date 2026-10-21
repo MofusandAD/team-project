@@ -7,6 +7,3 @@
 3. NUR ALIA AISHAH BINTI NAZRI SAKRI | A24CS0152
 4. AFINA SOLEHA BATRISYIA BINTI MOHD HISAFUDIN | A24CS0034
 
-## Project Collaboration
-
-This project is maintained by our team using GitHub.
