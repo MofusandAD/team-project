@@ -1,6 +1,6 @@
 # Team Project
 
-## Mofusand Team Members
+## Team Members
 
 1. NUR ATHIRAH BINTI ABASA | A24CS0158
 2. FAKHIRA ANISA BINTI MOHD RADZI | A24CS0070
