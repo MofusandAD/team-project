@@ -9,3 +9,5 @@
 
 ## Contact
 For questions about this project, please contact the team.
+
+Project documentation maintained by the team.
